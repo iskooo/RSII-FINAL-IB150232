@@ -7,8 +7,8 @@ Aplikacija za rentanje nekretnina.
 ##### Desktop aplikacija:
 1. Odabrati **eRent.WinUI** i startati **F5**
 2. Login podaci [username, password]:
-    administrator, test ; uposlenik, test
+    administrator, test ;
 ##### Mobilna aplikacija:
 1. Nalazi se u folderu Mobile
 2. Login podaci [username, password]:
-    member, test ; vodic, test
+    member, test ; 
